@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

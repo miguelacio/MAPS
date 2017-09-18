@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/5323fdd4d20081e0d234652ad3c489ed210c0c54/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d72878ae937caf2028967a7f4e7a1ae487381b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_676d930938961f0759765cdc3e75980aa478e45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d8813be7c89993f3061f966a87c54d5c6374dda3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4431108125ceb4405a92595c3badb4dc485df815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ebff93da0ed7eef8d7ed353657a31a66c4bf469f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/ad46f85e66af098da6e2e4d91f16dabd5a2efe98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_87359d5f0055935ea0cb3daa868ac8d7f75195be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/bbe8c48f7236c092e72a22bccaf5f408acae94d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_6b2901fbdd5a33b7026fd074bd9b3dc58fba9eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/ReactProjects/MAPS/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="090803e9eb6588971f788c5a5790be117fc836eb">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_ba2a16526b257982515e435f24b9c52852a13799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/1d6d63023de0d8ac08a83c45235326098d88855f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_160c1961a105efa7db4d41309f3b900a9770780d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_94a1a484ef60d5749e8bbfbe29fbac3602555065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_ce588b60b96d186de5ebc35ac1e8af46c2dae6a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cc30bc888bf92d536efaaa4a8e7a7e1cc6f0e1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_676d930938961f0759765cdc3e75980aa478e45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/5d690e1cf3973e09a35a7d88738fe3627b479bf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_64bac36c8119c7cb9dd7afb4621e101c632e25af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ebff93da0ed7eef8d7ed353657a31a66c4bf469f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_94a1a484ef60d5749e8bbfbe29fbac3602555065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_abfbdcd13754045ce4f988d8ba211c935ed52c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/b02c0ce467bc61770d1c66bbf64f389a46efb539/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_658bb3fb88d6c2caaec2d8b36a5a18e984c5b75c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d8813be7c89993f3061f966a87c54d5c6374dda3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/ef06eb776f97bada3a9960f19094965b573a4ca8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_84171eb2aa9998fdf1bc1c1100e121a8d459c389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/8b93deb0c3dd1006d67ff28e11083d81c9a94024/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_61a4fbccb718aa284dee693e8fd1390d683cf0a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/cda463a9e5016e5e84e83306513edd2a03aab1f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_0891a89b56613d20d26419610554d1a4d5de3c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/b1903deb43ef43c9c0bd019d63bd79cc1812c7f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_99dccc703616791ed40951171d2946561ce831ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/5323fdd4d20081e0d234652ad3c489ed210c0c54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_53d06829a78c6401e63f8fde1cae4a7e5c13501e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4431108125ceb4405a92595c3badb4dc485df815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/ef06eb776f97bada3a9960f19094965b573a4ca8/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_f4b6176c2563068ce3114370baa8675d9ca60a1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/c4bc592c91b51e41306469499e88549efe539989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_58213d35adfdeb0e1c0795a61cb8400e283dae12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cc30bc888bf92d536efaaa4a8e7a7e1cc6f0e1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/3e62607ea1a68bde111723bf4aeb4ce2dd6c4216/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_2ce5475012c197d545a2e8520a1f3c9d7334f686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/1e38775efc47e92e381846300d8b58a76c5c87ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_534e59337ccddcb14d653c583682d2494b391351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_ce588b60b96d186de5ebc35ac1e8af46c2dae6a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_abfbdcd13754045ce4f988d8ba211c935ed52c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/4a5b1358b46b338c76f523f915ea1cbe5532be6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_fcfb199f49a6d1b273e00f9371ea6a8f6d71edf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/miguelacio/.android/build-cache/b75ce584f142701ced68e7af0d6ad5661b7a1e3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/miguelacio/ReactProjects/MAPS/android/app/build/intermediates/pre-dexed/debug/classes_27112a66807ff81d14a51e880c70ef53fed4f6e0.jar" />
+    </item>
+
+</items>

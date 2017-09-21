@@ -857,7 +857,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		r6cnOWBQJx5r/oV4vjCRC8QtNB0=
+		Yfy8+v21Bw7NPXPwISeW264VNjI=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -869,7 +869,7 @@
 		</data>
 		<key>PlugIns/MAPSTests.xctest.dSYM/Contents/Resources/DWARF/MAPSTests</key>
 		<data>
-		q6LGzU1QuygueKPBqZOm24xwBsg=
+		xDHN5gqwFVfO1oHjrqkpGd7goU8=
 		</data>
 		<key>PlugIns/MAPSTests.xctest/Info.plist</key>
 		<data>
@@ -877,7 +877,7 @@
 		</data>
 		<key>PlugIns/MAPSTests.xctest/MAPSTests</key>
 		<data>
-		YEKCdWKxHu4TxWpiQivJAotaDfw=
+		LKekygOjvgdkD1Vsil2osKCcd3Q=
 		</data>
 		<key>PlugIns/MAPSTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -2689,11 +2689,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q6LGzU1QuygueKPBqZOm24xwBsg=
+			xDHN5gqwFVfO1oHjrqkpGd7goU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			7iLbvTjqPNZu0AZKW1VxXr2AfxVb4SBbws4kXUV15a0=
+			d7XY3pSyqeNfOXrWLMq9xrFBS/BMO+P7CunaEESi8WQ=
 			</data>
 		</dict>
 		<key>PlugIns/MAPSTests.xctest/Info.plist</key>
@@ -2711,11 +2711,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YEKCdWKxHu4TxWpiQivJAotaDfw=
+			LKekygOjvgdkD1Vsil2osKCcd3Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			lfUnGihI6vKZJ5UKpTmkrVEn1SJ6RBCh902nRkXSpUQ=
+			PVnaEYcJyb4SH0Tqg7nGNzsr1Oeb+IQFSByp0Hb6ajU=
 			</data>
 		</dict>
 		<key>PlugIns/MAPSTests.xctest/_CodeSignature/CodeResources</key>

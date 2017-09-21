@@ -4,6 +4,10 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+<string>Your message goes here</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Your message goes here</string>
 	<key>CFBundleDisplayName</key>
 	<string>MAPS</string>
 	<key>CFBundleExecutable</key>

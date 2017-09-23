@@ -1,26 +1,9 @@
-import React, { Component } from 'react';
-import { Text } from 'react-native';
 import {
     StackNavigator,
 } from 'react-navigation';
+import MapMarker from './MapMarker';
+import Routes from './Router';
 
-class App extends Component {
-    static navigationOptions = {
-        title: 'Welcome',
-    };
+// const configuration = { initialRouteName: 'ScreenHome' };
 
-    render() {
-        const { navigate } = this.props.navigation;
-        return (
-            <View>
-                <Text>Go to maps!</Text>
-                <Button
-                    onPress={() => navigate('Map')}
-                    title="MAP"
-                />
-            </View>
-        );
-    }
-}
-
-export default App;
+export default App = StackNavigator(Routes/* , configuration*/);

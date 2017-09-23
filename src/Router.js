@@ -1,27 +1,9 @@
-import {
-    StackNavigator,
-  } from 'react-navigation';
+import MapMarker from './MapMarker';
+import Home from './Home';
 
-  import MapMarker from './MapMarker';
-  import App from './App';
-  
-  export const UserStack = StackNavigator({
-	ScreenMap: 
-	{
-		screen: MapMarker,
-		navigationOptions:
-		{
-			title: "Map",
-			header:null
-		},
-	},
-	ScreenHome: 
-	{
-		screen: App,
-		navigationOptions:
-		{
-			title: "Home",
-			headerLeft:null
-		},
-	},
-});
+const Routes = {
+	ScreenHome: { screen: Home },
+    ScreenMap: { screen: MapMarker },
+};
+
+export default Routes;

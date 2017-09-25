@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import { AppRegistry, StyleSheet, View, Dimensions, TouchableOpacity } from 'react-native';
+import { AppRegistry, StyleSheet, View, Dimensions, TouchableOpacity, Alert } from 'react-native';
 import MapView, { PROVIDER_GOOGLE } from 'react-native-maps';
 import RetroMapStyles from '../MapStyles/RetroMapStyles.json';
+import openMap from 'react-native-open-maps';
 let { width, height } = Dimensions.get('window');
 let id = 0;
 
@@ -29,7 +30,6 @@ class MapMarker extends Component {
         this.setState({ region });
     }
     onMapPress(e) {
-        console.log(e.nativeEvent);
         this.setState({
             markers: [
                 ...this.state.markers,
@@ -40,6 +40,17 @@ class MapMarker extends Component {
                 },
             ],
         });
+    }
+
+    onMarkerPress(marker){
+        Alert.alert(
+            '¿Quieres ir a este lugar?',
+            'mensaje mensaje',
+            [
+              {text: 'Cancel', style: 'cancel'},
+              {text: 'OK', onPress: () => openMap({ latitude: marker.coordinate.latitude, longitude: marker.coordinate.longitude })},
+            ]
+          )
     }
 
     render() {
@@ -57,6 +68,7 @@ class MapMarker extends Component {
                             key={marker.key}
                             coordinate={marker.coordinate}
                             pinColor={marker.color}
+                            onPress={(e) => this.onMarkerPress(marker)}
                         />
                     ))}
 
